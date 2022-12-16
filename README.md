@@ -1,2 +1,2 @@
-# Multi-Cheat-engine-by-KILLER-SOT_3HC
-beta 6
+# Multi-Cheat-engine-by-Killer{Sot_3hc}
+Release 1.0
