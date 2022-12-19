@@ -1,8 +1,13 @@
 # Multi-Cheat-engine-by-Killer{Sot_3hc}
+
+Multi-purpose cheat tool for most-played shooters and lol.
+
 Release 1.0.2
 
   Important!!! Run as administrator for better experience.
 
+See releases section to download it.
+  
   Language:
   
     · Spanish
